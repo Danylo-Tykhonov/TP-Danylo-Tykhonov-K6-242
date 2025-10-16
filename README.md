@@ -6,5 +6,10 @@ add solution for task1,2,3
 add folder pr_02
 add solution for task1,2,3
 
+# 2025-10-16
+add folder pr_03
+add solution for task1,2,3,4
+
+
 # TP-Danylo-Tykhonov-K6-242
 cd
