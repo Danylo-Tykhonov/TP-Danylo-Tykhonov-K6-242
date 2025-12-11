@@ -1,7 +1,7 @@
 import unittest
 import os
 from unittest.mock import patch
-from lab_02 import *
+from lab_02.lab_02 import *
 
 class TestLab2(unittest.TestCase):
     def setUp(self):
